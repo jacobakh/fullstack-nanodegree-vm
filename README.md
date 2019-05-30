@@ -144,7 +144,7 @@ If you're getting a specific textual error message, try looking it up on your fa
 Udacity mentors have noticed that some newer versions of Vagrant don't work on all operating systems. Version 1.9.2 is reported to be stabler on some systems, and version 1.9.1 is the supported version on Ubuntu 17.04. You can download older versions of Vagrant from [the Vagrant releases index](https://releases.hashicorp.com/vagrant/).
 
 ## Supporting Materials
-.
+
 
 [Virtual machine repository on GitHub](https://github.com/udacity/fullstack-nanodegree-vm)
 
